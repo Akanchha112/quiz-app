@@ -103,7 +103,7 @@ const App = () => {
   }
   return (
     <div className="App">
-      <h1>REACT QUIZ</h1>
+      <h1>QUIZ</h1>
       <div className='app-container'>
 
         {gameOver || userAnswers.length === TOTAL_QUESTIONS ? (
